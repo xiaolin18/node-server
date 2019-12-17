@@ -6,7 +6,7 @@ const con = mysql.createConnection({
   user: "root",
   password: "test1234",
   port: "3306",
-  database: "mysql",
+  database: "myblog",
   insecureAuth : true
 });
 
